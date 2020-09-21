@@ -1,5 +1,5 @@
 homepage: "https://visual-meta.com"
-documentation: "https://github.com/visual-meta/gtm-vendor-landing-template/blob/master/VisualMetaSalesTracking2.0-ImplementationGuide.pdf"
+documentation: "https://github.com/visual-meta/gtm-vendor-conversion-template/blob/master/VisualMetaSalesTracking2.0-ImplementationGuide.pdf"
 versions:  
-  - sha: 483f5e70ac23c91c0e6ae02ba49f6af82648dbdb
+  - sha: 1cde65af779ba50f36d507963c9841cce00a7612
     changeNotes: Initial release.
