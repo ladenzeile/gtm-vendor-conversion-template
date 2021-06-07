@@ -1,5 +1,9 @@
 homepage: "https://visual-meta.com"
 documentation: "https://github.com/visual-meta/gtm-vendor-conversion-template/blob/master/VisualMetaSalesTracking2.0-ImplementationGuide.pdf"
-versions:  
+versions:
+  # Latest version
+  - sha: f565c39e751af8c94f335b29759c598a528089d9
+    changeNotes: Updates the template to accept multiple trackingIds. 
+  # Older versions
   - sha: 1cde65af779ba50f36d507963c9841cce00a7612
     changeNotes: Initial release.
