@@ -132,7 +132,7 @@ if (trackingIdArray.length > 1) {
 }
 
 //use the provided APIs to do things like send pixels
-let host = 'salestracking.visual-meta.com';
+let host = 'sales-tracking-receiver.development.ladenzeile.com';
 const url = 'https://'+encodeUriComponent(host)+'/api/event/st?trackingId='+ encodeUriComponent(trackingId)+
 '&type='+ encodeUriComponent(data.type)+      
 '&clickout='+ cookieValue+
